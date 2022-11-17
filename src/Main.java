@@ -49,9 +49,10 @@ public class Main {
             }
             System.out.println("потребуется дней " + deliveryDays);
         }
+
         // Задание 5;
         System.out.println("Задание 5");
-        int monthNumber = 13;
+        int monthNumber = 3;
 
         switch (monthNumber) {
             case 12:
